@@ -1,0 +1,16 @@
+.
+├── common_shared_folder
+├── create_dockers.sh
+├── dock_flow
+│   ├── Dockerfile
+│   └── shared_folder
+│       └── sender.py
+├── dock_view
+│   ├── Dockerfile
+│   └── shared_folder
+│       └── receiver.py
+├── LICENSE
+├── README.md
+└── tree.txt
+
+5 directories, 8 files
